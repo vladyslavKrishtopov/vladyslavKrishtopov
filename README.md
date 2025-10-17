@@ -11,9 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id lacinia orci. 
 
 ## Tech & Tools
 - Languages: Python, C/C++
-- DevOps: Docker, Git
-
-(Replace or reorder to match your stack.)
+- DevOps: Docker, Git, ROS2
 
 ---
 
