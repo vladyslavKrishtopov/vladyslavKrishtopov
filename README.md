@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Vladyslav Krishtopov 👋
 
-<!--
-**vladyslavKrishtopov/vladyslavKrishtopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer · Open-source enthusiast · Always learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id lacinia orci. Nulla nec enim id magna gravida eleifend. Etiam ultrices mauris tellus, et feugiat sapien luctus a. Proin sed laoreet sapien. Aenean sodales congue diam vitae feugiat. Praesent congue augue lacus, ac cursus dui tincidunt vitae. Maecenas lacinia viverra dolor, consequat rutrum tortor aliquet vitae.
+
+---
+
+## Tech & Tools
+- Languages: Python, C/C++
+- DevOps: Docker, Git
+
+(Replace or reorder to match your stack.)
+
+---
+
+## Selected Projects
+- [ProjectName](https://github.com/vladyslavKrishtopov/ProjectName) — short project description
+- [AnotherProject](https://github.com/vladyslavKrishtopov/AnotherProject) — short project description
+
+---
+
+## Contact
+- GitHub: https://github.com/vladyslavKrishtopov
+- Email: krishtopov.vlad@gmail.com
+
+---
+
+Thanks for visiting — feel free to connect or check out my repositories.
